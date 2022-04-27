@@ -10,8 +10,8 @@ main{
     display: flex;
     flex-direction: column;
     background: rgb(20, 163, 51);
-    width: 600px;
-    height: 600px;
+    width: 100px;
+    height: 100px;
     align-items: center;
     justify-content: space-evenly;
     border-radius: 30px;
@@ -31,7 +31,7 @@ main{
   
   .input {
     display: flex;
-    width: 500px;
+    width: 100px;
     height: 50px;
     justify-content: space-between;
     align-items: center;
@@ -39,7 +39,7 @@ main{
     border-radius: 30px;
   }
   .input input {
-    width: 500px;
+    width: 100px;
     height: 50px;
     border-radius: 15px;
     border:none;
@@ -56,7 +56,7 @@ main{
   }
   
   button{
-    width: 300px;
+    width: 100px;
     height: 40px;
     font: bold 1.2rem serif;
     background: #000;
@@ -71,7 +71,7 @@ main{
     display: flex;
     margin-top: 5px;
     align-items: center;
-    width: 300px;
+    width: 100px;
     height: 200px;
     border-radius: 15px;
     font: bold 1.5rem serif;
